@@ -1,0 +1,122 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L R R1
+U 1 1 56A758D7
+P 2850 3850
+F 0 "R1" V 2930 3850 50  0000 C CNN
+F 1 "0201" V 2850 3850 50  0000 C CNN
+F 2 "" V 2780 3850 30  0000 C CNN
+F 3 "" H 2850 3850 30  0000 C CNN
+	1    2850 3850
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R2
+U 1 1 56A7593E
+P 3100 3850
+F 0 "R2" V 3180 3850 50  0000 C CNN
+F 1 "0402" V 3100 3850 50  0000 C CNN
+F 2 "" V 3030 3850 30  0000 C CNN
+F 3 "" H 3100 3850 30  0000 C CNN
+	1    3100 3850
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R3
+U 1 1 56A7599C
+P 3350 3850
+F 0 "R3" V 3430 3850 50  0000 C CNN
+F 1 "0603" V 3350 3850 50  0000 C CNN
+F 2 "" V 3280 3850 30  0000 C CNN
+F 3 "" H 3350 3850 30  0000 C CNN
+	1    3350 3850
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R4
+U 1 1 56A75D4B
+P 3600 3850
+F 0 "R4" V 3680 3850 50  0000 C CNN
+F 1 "0805" V 3600 3850 50  0000 C CNN
+F 2 "" V 3530 3850 30  0000 C CNN
+F 3 "" H 3600 3850 30  0000 C CNN
+	1    3600 3850
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R5
+U 1 1 56A75DAB
+P 3850 3850
+F 0 "R5" V 3930 3850 50  0000 C CNN
+F 1 "1206" V 3850 3850 50  0000 C CNN
+F 2 "" V 3780 3850 30  0000 C CNN
+F 3 "" H 3850 3850 30  0000 C CNN
+	1    3850 3850
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R6
+U 1 1 56A75DE5
+P 4100 3850
+F 0 "R6" V 4180 3850 50  0000 C CNN
+F 1 "1210" V 4100 3850 50  0000 C CNN
+F 2 "" V 4030 3850 30  0000 C CNN
+F 3 "" H 4100 3850 30  0000 C CNN
+	1    4100 3850
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R7
+U 1 1 56A75E15
+P 4300 3850
+F 0 "R7" V 4380 3850 50  0000 C CNN
+F 1 "2010" V 4300 3850 50  0000 C CNN
+F 2 "" V 4230 3850 30  0000 C CNN
+F 3 "" H 4300 3850 30  0000 C CNN
+	1    4300 3850
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
